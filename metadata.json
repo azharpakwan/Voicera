@@ -1,0 +1,6 @@
+{
+  "name": "Voicera AI",
+  "description": "Convert text into natural AI voice with Voicera AI. Generate professional voiceovers for videos, podcasts, stories and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
